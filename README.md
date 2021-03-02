@@ -1,7 +1,7 @@
 ## Mastering Rates
 
 ### Joe LaPorta
-https://sterling-sound.com/engineer/joe-laporta/
+[https://sterling-sound.com/engineer/joe-laporta/](https://sterling-sound.com/engineer/joe-laporta/)
 
 #### Rates
 - $225 per Main Mix
@@ -21,7 +21,7 @@ https://sterling-sound.com/engineer/joe-laporta/
 ___
 
 ### Colin Leonard
-https://www.singmastering.com/about/
+[https://www.singmastering.com/about/](https://www.singmastering.com/about/)
 
 - Playboi Carti, Whole Lotta Red (2020)
 - Bryson Tiller, ANNIVERSARY (2020)
@@ -33,7 +33,7 @@ https://www.singmastering.com/about/
 ___
 
 ### Dave Kutch
-https://www.themasteringpalace.com/
+[https://www.themasteringpalace.com/](https://www.themasteringpalace.com/)
 
 ##### Rates
 - $225/main mix
@@ -50,7 +50,7 @@ https://www.themasteringpalace.com/
 ___
 
 ### Kevin Peterson
-https://www.themasteringpalace.com/
+[https://www.themasteringpalace.com/](https://www.themasteringpalace.com/)
 - $185/main mix
 - $25/alternate pass
 
