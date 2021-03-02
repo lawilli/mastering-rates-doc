@@ -1,5 +1,3 @@
-## Mastering Rates
-
 ### Joe LaPorta
 [https://sterling-sound.com/engineer/joe-laporta/](https://sterling-sound.com/engineer/joe-laporta/)
 
