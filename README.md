@@ -28,6 +28,7 @@ ___
 - Syd, Fin (2017)
 - Migos, Culture (2016)
 - Bryson Tiller, Trap Soul (2016)
+
 ___
 
 ### Dave Kutch
@@ -45,6 +46,7 @@ ___
 - DJ Mustard, Perfect 10 (2019)
 - JAY-Z, 4:44 (2017)
 - Beyoncé, Lemonade (2016)
+
 ___
 
 ### Kevin Peterson
@@ -52,7 +54,7 @@ ___
 - $185/main mix
 - $25/alternate pass
 
--------------------
+___
 
 Note: count each alternate mix pass as "1" (example: 2 cleans + 4 instrumentals + 4 tv tracks = 10)
 
