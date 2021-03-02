@@ -1,13 +1,4 @@
-# mastering-rates-doc
-
-
-Please count each alternate mix pass as "1" (example: 2 cleans + 4 instrumentals + 4 tv tracks = 10)
-
-Example using Joe LaPorta:
-- 1 Main Mix ($225)
-- 1 Alt Mix (e.g. a clean version, $100)
-- \= $325 total
-
+## Mastering Rates
 
 ### Joe LaPorta
 https://sterling-sound.com/engineer/joe-laporta/
@@ -64,3 +55,10 @@ https://www.themasteringpalace.com/
 - $25/alternate pass
 
 -------------------
+
+Note: count each alternate mix pass as "1" (example: 2 cleans + 4 instrumentals + 4 tv tracks = 10)
+
+Example using Joe LaPorta:
+- 1 Main Mix ($225)
+- 1 Alt Mix (e.g. a clean version, $100)
+- \= $325 total
